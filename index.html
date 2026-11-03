@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Qui suis-je ? — One Piece</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="jeu">
+  <header class="entete">
+    <h1>Qui suis-je ?</h1>
+    <div class="difficulte" role="group" aria-label="Difficulté">
+      <button type="button" class="niveau actif" data-niveau="normal">Normal</button>
+      <button type="button" class="niveau" data-niveau="difficile">Difficile</button>
+    </div>
+  </header>
+
+  <section class="carte">
+    <p class="compteur" id="compteur">Indice 1 / 5</p>
+    <p class="indice" id="indice" aria-live="polite">Chargement…</p>
+    <p class="reponse" id="reponse" aria-live="polite" hidden></p>
+  </section>
+
+  <div class="commandes">
+    <button type="button" id="precedent">← Précédent</button>
+    <button type="button" id="suivant">Suivant →</button>
+  </div>
+
+  <div class="commandes">
+    <button type="button" id="reveler" class="principal">Révéler</button>
+    <button type="button" id="nouveau">Nouveau personnage</button>
+  </div>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
