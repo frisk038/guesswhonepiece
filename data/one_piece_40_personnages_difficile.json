@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "personnage": "Roronoa Zoro",
+    "indices": [
+      "Je ne reviens jamais sur une parole donnée.",
+      "Je suis musculeux.",
+      "Je suis le second d'un équipage.",
+      "Mon capitaine est plus jeune que moi.",
+      "J'ai perdu deux mille combats contre la même personne."
+    ]
+  },
+  {
+    "id": 2,
+    "personnage": "Crocodile",
+    "indices": [
+      "Je ne crois plus à ce que je poursuivais autrefois.",
+      "Une cicatrice barre mon visage.",
+      "J'ai dirigé une entreprise de façade.",
+      "Mes subordonnés ne connaissaient qu'un nom de code.",
+      "Je voulais tuer un empereur."
+    ]
+  },
+  {
+    "id": 3,
+    "personnage": "Shanks",
+    "indices": [
+      "Je crois qu'il faut savoir reculer pour durer.",
+      "Je porte une cape sur une épaule.",
+      "Je commande un équipage redouté.",
+      "J'ai veillé sur un enfant pendant un an.",
+      "Je consacre plus de temps aux banquets qu'aux combats."
+    ]
+  },
+  {
+    "id": 4,
+    "personnage": "Trafalgar Law",
+    "indices": [
+      "Je garde mes intentions pour moi.",
+      "Je porte un bonnet enfoncé sur les yeux.",
+      "Je dirige un équipage.",
+      "J'ai été élevé par un homme étranger à ma famille.",
+      "J'ai survécu à une maladie qui a tué ma ville."
+    ]
+  },
+  {
+    "id": 5,
+    "personnage": "Perona",
+    "indices": [
+      "Je fuis tout ce qui pourrait me faire mal.",
+      "Je suis de petite taille.",
+      "J'ai servi un maître sans partager ses ambitions.",
+      "Je me suis attachée à un blessé.",
+      "Je collectionne ce que je trouve mignon."
+    ]
+  },
+  {
+    "id": 6,
+    "personnage": "Donquixote Doflamingo",
+    "indices": [
+      "Je pense que la morale appartient aux vainqueurs.",
+      "Je porte un long manteau.",
+      "J'ai hérité d'un rang abandonné par ma famille.",
+      "On s'est vengé sur moi d'une faute que je n'avais pas commise.",
+      "Je dois mon ascension au trafic d'êtres humains."
+    ]
+  },
+  {
+    "id": 7,
+    "personnage": "Bon Clay",
+    "indices": [
+      "Je pleure facilement pour les autres.",
+      "Mon visage est anguleux.",
+      "J'ai porté un numéro dans une organisation.",
+      "Je me suis lié d'amitié avec mes cibles.",
+      "J'ai inventé mon propre art martial."
+    ]
+  },
+  {
+    "id": 8,
+    "personnage": "Enel",
+    "indices": [
+      "Je n'accorde aucune valeur à la vie de mes inférieurs.",
+      "Un bandeau ceint mon front.",
+      "J'ai renversé un souverain légitime.",
+      "J'ai exigé qu'on me vénère comme une divinité.",
+      "J'ai fait construire un navire capable de quitter le monde."
+    ]
+  },
+  {
+    "id": 9,
+    "personnage": "Katakuri",
+    "indices": [
+      "Je ne supporte pas qu'on me voie faillible.",
+      "Je suis extrêmement grand.",
+      "Je suis l'un des piliers d'une famille.",
+      "Je mange toujours seul.",
+      "J'ai gagné tous mes combats jusqu'au dernier."
+    ]
+  },
+  {
+    "id": 10,
+    "personnage": "Brook",
+    "indices": [
+      "Je masque ma mélancolie derrière des plaisanteries.",
+      "Je suis très maigre.",
+      "J'ai appartenu à un équipage de musiciens.",
+      "J'ai survécu à tous mes compagnons.",
+      "Je commandais une garde royale."
+    ]
+  },
+  {
+    "id": 11,
+    "personnage": "Buggy",
+    "indices": [
+      "Je suis plus lâche que ma réputation.",
+      "Je porte un bonnet à pompons.",
+      "J'ai commandé une troupe de saltimbanques.",
+      "J'ai servi dans un équipage légendaire.",
+      "Je loue des mercenaires."
+    ]
+  },
+  {
+    "id": 12,
+    "personnage": "Nico Robin",
+    "indices": [
+      "Je préfère observer plutôt que participer.",
+      "Mes cheveux sont noirs.",
+      "Je pratique une discipline interdite.",
+      "J'ai changé d'équipage une dizaine de fois.",
+      "J'ai été condamnée à l'âge de huit ans."
+    ]
+  },
+  {
+    "id": 13,
+    "personnage": "Bartholomew Kuma",
+    "indices": [
+      "J'accepte de souffrir si un autre y gagne.",
+      "Je suis gigantesque.",
+      "J'ai servi des causes opposées.",
+      "J'ai une fille dont je me suis éloigné.",
+      "Je ne me déplaçais jamais sans un livre de prières."
+    ]
+  },
+  {
+    "id": 14,
+    "personnage": "Señor Pink",
+    "indices": [
+      "Je ne laisse rien paraître de mes sentiments.",
+      "Je porte des lunettes noires.",
+      "J'ai été cadre dans une organisation criminelle.",
+      "J'ai perdu mon fils.",
+      "J'étais réputé pour mon élégance."
+    ]
+  },
+  {
+    "id": 15,
+    "personnage": "Kuro",
+    "indices": [
+      "Je méprise la violence que je maîtrise.",
+      "Je porte des lunettes rondes.",
+      "J'ai vécu sous une fausse identité.",
+      "J'ai sacrifié mon propre équipage.",
+      "Mon plan a duré dix ans."
+    ]
+  },
+  {
+    "id": 16,
+    "personnage": "Magellan",
+    "indices": [
+      "Je place mon devoir au-dessus de mon confort.",
+      "Deux cornes ornent ma tête.",
+      "Je dirige un établissement dont personne ne s'échappe.",
+      "Mes subordonnés me redoutent.",
+      "Je souffre d'un trouble digestif chronique."
+    ]
+  },
+  {
+    "id": 17,
+    "personnage": "Bartolomeo",
+    "indices": [
+      "Je suis grossier avec tout le monde sauf une personne.",
+      "Mes cheveux sont taillés en crête.",
+      "J'ai dirigé une organisation criminelle terrestre.",
+      "Je suis devenu capitaine par admiration.",
+      "Je passe pour le pirate le plus détesté de ma région."
+    ]
+  },
+  {
+    "id": 18,
+    "personnage": "Wapol",
+    "indices": [
+      "Je fuis dès que le rapport de force m'est défavorable.",
+      "Je suis corpulent.",
+      "J'ai abandonné la population de mon pays.",
+      "J'ai épousé une reine.",
+      "Je dois ma fortune à l'industrie du jouet."
+    ]
+  },
+  {
+    "id": 19,
+    "personnage": "Corazon (Rosinante)",
+    "indices": [
+      "J'ai agi contre les intérêts de ma famille.",
+      "Mon visage est maquillé.",
+      "J'occupais un rang élevé dans une organisation criminelle.",
+      "J'ai pris en charge un enfant malade.",
+      "Ma maladresse me blessait constamment."
+    ]
+  },
+  {
+    "id": 20,
+    "personnage": "Usopp",
+    "indices": [
+      "J'ai peur en permanence.",
+      "Mes cheveux sont crépus.",
+      "Je suis le tireur d'élite de mon équipage.",
+      "J'ai grandi sans père.",
+      "Je fabrique moi-même mes munitions."
+    ]
+  },
+  {
+    "id": 21,
+    "personnage": "Dracule Mihawk",
+    "indices": [
+      "Je ne vis que pour mesurer ma valeur.",
+      "Je porte un très large chapeau.",
+      "Je figure parmi les combattants les plus redoutés.",
+      "Je vis sans équipage.",
+      "Une femme s'est installée chez moi sans invitation."
+    ]
+  },
+  {
+    "id": 22,
+    "personnage": "Boa Hancock",
+    "indices": [
+      "Je suis convaincue que tout le monde doit m'aimer.",
+      "Mes cheveux sont très longs.",
+      "Je dirige un peuple qui me vénère.",
+      "Je cache mon passé à mon peuple.",
+      "J'ai été vendue comme esclave."
+    ]
+  },
+  {
+    "id": 23,
+    "personnage": "Marco",
+    "indices": [
+      "Je n'ai jamais cherché à commander.",
+      "Ma chemise reste toujours ouverte.",
+      "J'ai été le premier commandant d'un équipage.",
+      "Je considérais mon capitaine comme mon père.",
+      "J'exerce la médecine dans un village isolé."
+    ]
+  },
+  {
+    "id": 24,
+    "personnage": "Don Krieg",
+    "indices": [
+      "Je ne respecte que la force brute.",
+      "Je porte un casque.",
+      "J'ai commandé une flotte de cinquante navires.",
+      "Mes hommes me suivaient par peur.",
+      "J'ai perdu ma flotte en sept jours."
+    ]
+  },
+  {
+    "id": 25,
+    "personnage": "Rob Lucci",
+    "indices": [
+      "Je ne ressens rien pour ceux que j'élimine.",
+      "Mon visage reste impassible.",
+      "J'appartiens à une unité officiellement inexistante.",
+      "J'ai vécu parmi des gens que je surveillais.",
+      "J'ai le droit de tuer sans jugement."
+    ]
+  },
+  {
+    "id": 26,
+    "personnage": "Charlotte Pudding",
+    "indices": [
+      "Je change de visage selon ce qu'on attend de moi.",
+      "Mes cheveux sont attachés en couettes.",
+      "J'appartiens à une fratrie démesurée.",
+      "J'ai été promise en mariage.",
+      "J'ai été moquée pour une particularité de naissance."
+    ]
+  },
+  {
+    "id": 27,
+    "personnage": "Eustass Kid",
+    "indices": [
+      "Je refuse de reconnaître quelqu'un au-dessus de moi.",
+      "Mes cheveux sont rouges.",
+      "Je commande un équipage brutal.",
+      "Je me suis allié à des rivaux méprisés.",
+      "J'ai remplacé moi-même mon bras."
+    ]
+  },
+  {
+    "id": 28,
+    "personnage": "Arlong",
+    "indices": [
+      "Je considère ma race supérieure.",
+      "Ma peau est bleutée.",
+      "Je me suis installé de force en territoire étranger.",
+      "J'ai exploité le talent d'une enfant.",
+      "J'ai trahi l'idéal de celui que je servais."
+    ]
+  },
+  {
+    "id": 29,
+    "personnage": "Charlotte Cracker",
+    "indices": [
+      "Je ne supporte pas qu'on découvre ma vraie nature.",
+      "Je suis mince.",
+      "Je fais partie de l'élite militaire d'une famille.",
+      "Je ne combats jamais à découvert.",
+      "Mon dernier combat a duré onze heures."
+    ]
+  },
+  {
+    "id": 30,
+    "personnage": "Kinemon",
+    "indices": [
+      "Je suis d'une loyauté absolue.",
+      "Je porte un chignon.",
+      "J'appartiens à une caste de guerriers.",
+      "J'ai perdu vingt ans de ma vie.",
+      "Ma femme n'a pas vieilli avec moi."
+    ]
+  },
+  {
+    "id": 31,
+    "personnage": "Fisher Tiger",
+    "indices": [
+      "Je n'ai jamais réussi à aimer ceux que je libérais.",
+      "Mon corps est rayé.",
+      "J'ai fondé un équipage d'anciens esclaves.",
+      "Mon peuple a fait de moi un héros.",
+      "J'ai caché que j'avais été esclave."
+    ]
+  },
+  {
+    "id": 32,
+    "personnage": "Smoker",
+    "indices": [
+      "Je ne transige pas avec ma hiérarchie.",
+      "Mes cheveux sont blancs.",
+      "Je sers dans la marine.",
+      "Une subordonnée ne me quitte jamais.",
+      "J'ai été rétrogradé pour insubordination."
+    ]
+  },
+  {
+    "id": 33,
+    "personnage": "Hannyabal",
+    "indices": [
+      "Je dis tout haut ce que les ambitieux taisent.",
+      "Mon menton est proéminent.",
+      "J'occupe le second rang d'une administration.",
+      "Mon supérieur ignore mes ambitions.",
+      "J'ai obtenu le poste que je convoitais."
+    ]
+  },
+  {
+    "id": 34,
+    "personnage": "Kanjuro",
+    "indices": [
+      "Je joue un rôle depuis si longtemps que je m'y suis attaché.",
+      "Mon visage est allongé.",
+      "J'ai renié les valeurs de ma caste.",
+      "J'ai renseigné l'ennemi pendant vingt ans.",
+      "Mon talent artistique est médiocre."
+    ]
+  },
+  {
+    "id": 35,
+    "personnage": "Hiriluk",
+    "indices": [
+      "Je crois qu'on guérit un pays comme un corps.",
+      "Mes cheveux sont en bataille.",
+      "J'exerçais la médecine sans diplôme.",
+      "J'ai élevé un animal dont personne ne voulait.",
+      "Mes patients me prenaient pour un charlatan."
+    ]
+  },
+  {
+    "id": 36,
+    "personnage": "Gecko Moria",
+    "indices": [
+      "Je ne fais plus confiance aux vivants.",
+      "Mon teint est blafard.",
+      "J'ai régné sur un territoire que j'avais construit.",
+      "J'ai perdu tous mes compagnons en une nuit.",
+      "On m'a retiré mon titre."
+    ]
+  },
+  {
+    "id": 37,
+    "personnage": "Shirahoshi",
+    "indices": [
+      "Je suis terrifiée par presque tout.",
+      "Je suis démesurément grande.",
+      "Je suis fille de roi.",
+      "Je suis restée enfermée dix ans.",
+      "Ma mère a été assassinée sous mes yeux."
+    ]
+  },
+  {
+    "id": 38,
+    "personnage": "Basil Hawkins",
+    "indices": [
+      "Je ramène tout à un calcul de probabilités.",
+      "Des peintures marquent mon visage.",
+      "Je sers un maître plus puissant que moi.",
+      "J'abandonne mes alliés quand leurs chances baissent.",
+      "J'exerçais le métier de diseur de bonne aventure."
+    ]
+  },
+  {
+    "id": 39,
+    "personnage": "Mont Blanc Noland",
+    "indices": [
+      "Je préfère la vérité à ma réputation.",
+      "Je suis barbu.",
+      "J'étais botaniste au service d'une couronne.",
+      "Mes rapports ont été jugés mensongers.",
+      "Mon nom est devenu une insulte."
+    ]
+  },
+  {
+    "id": 40,
+    "personnage": "Queen",
+    "indices": [
+      "Je veux être adoré autant que redouté.",
+      "Mes cheveux sont blonds.",
+      "Je suis l'un des trois lieutenants d'un équipage.",
+      "J'ai travaillé dans un laboratoire.",
+      "Je me produis en spectacle devant mes prisonniers."
+    ]
+  }
+]
